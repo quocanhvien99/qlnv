@@ -1,0 +1,155 @@
+[
+	{
+		"id": 1494227,
+		"departmentName": "ChainLink",
+		"isleader": "1",
+		"mail": "khoand@aladintech.co",
+		"datetime": null,
+		"user": {
+			"id": "8400816104563943",
+			"login": "khoand@aladintech.co",
+			"firstName": "Khoa",
+			"lastName": "Nguyễn Đăng",
+			"email": "khoand@aladintech.co",
+			"activated": false,
+			"langKey": "en",
+			"imageUrl": null
+		}
+	},
+	{
+		"id": 1494182,
+		"departmentName": "CHUNHATTEAM",
+		"isleader": "1",
+		"mail": "quynhhtn@aladintech.co",
+		"datetime": null,
+		"user": {
+			"id": "9818284094940483",
+			"login": "quynhhtn@aladintech.co",
+			"firstName": "Hoàng",
+			"lastName": "Thị Như Quỳnh",
+			"email": "quynhhtn@aladintech.co",
+			"activated": true,
+			"langKey": "en",
+			"imageUrl": null
+		}
+	},
+	{
+		"id": 1494190,
+		"departmentName": "HAOHANTEAM",
+		"isleader": "1",
+		"mail": "hunglt@aladintech.co",
+		"datetime": null,
+		"user": {
+			"id": "371319410073107",
+			"login": "hunglt@aladintech.co",
+			"firstName": "Hưng",
+			"lastName": "Lê Thành",
+			"email": "hunglt@aladintech.co",
+			"activated": true,
+			"langKey": "en",
+			"imageUrl": null
+		}
+	},
+	{
+		"id": 1494184,
+		"departmentName": "WINDCHASERSTEAM",
+		"isleader": "1",
+		"mail": "minhhq@aladintech.co",
+		"datetime": null,
+		"user": {
+			"id": "1989803046400007",
+			"login": "minhhq@aladintech.co",
+			"firstName": "Hoàng",
+			"lastName": "Quang Minh",
+			"email": "minhhq@aladintech.co",
+			"activated": true,
+			"langKey": "en",
+			"imageUrl": null
+		}
+	},
+	{
+		"id": 1494615,
+		"departmentName": "HUMANRESOURCES",
+		"isleader": "1",
+		"mail": "thompt@aladintech.co",
+		"datetime": null,
+		"user": {
+			"id": "03196454857547006",
+			"login": "thompt@aladintech.co",
+			"firstName": "Phạm",
+			"lastName": "Thị Thơm",
+			"email": "thompt@aladintech.co",
+			"activated": true,
+			"langKey": "en",
+			"imageUrl": null
+		}
+	},
+	{
+		"id": 1495010,
+		"departmentName": "200OK",
+		"isleader": "1",
+		"mail": "minhlt@aladintech.co",
+		"datetime": null,
+		"user": {
+			"id": "2843832948036583",
+			"login": "minhlt@aladintech.co",
+			"firstName": "Lê",
+			"lastName": "Thị Minh",
+			"email": "minhlt@aladintech.co",
+			"activated": true,
+			"langKey": "en",
+			"imageUrl": null
+		}
+	},
+	{
+		"id": 1494208,
+		"departmentName": "MONEY",
+		"isleader": "1",
+		"mail": "hau@aladintech.co",
+		"datetime": null,
+		"user": {
+			"id": "3631465840282881",
+			"login": "hau@aladintech.co",
+			"firstName": "Tran",
+			"lastName": "Hau",
+			"email": "hau@aladintech.co",
+			"activated": true,
+			"langKey": "en",
+			"imageUrl": null
+		}
+	},
+	{
+		"id": 1494191,
+		"departmentName": "PROHUSTLEPLAYAHS",
+		"isleader": "1",
+		"mail": "ducnm@aladintech.co",
+		"datetime": null,
+		"user": {
+			"id": "0520054469297444",
+			"login": "ducnm@aladintech.co",
+			"firstName": "Đức",
+			"lastName": "Nguyễn Minh",
+			"email": "ducnm@aladintech.co",
+			"activated": true,
+			"langKey": "en",
+			"imageUrl": null
+		}
+	},
+	{
+		"id": 1494219,
+		"departmentName": "ETERNALS",
+		"isleader": "1",
+		"mail": "duydn@aladintech.co",
+		"datetime": null,
+		"user": {
+			"id": "1543874806871788",
+			"login": "duydn@aladintech.co",
+			"firstName": "Đào",
+			"lastName": "Ngọc Duy",
+			"email": "duydn@aladintech.co",
+			"activated": true,
+			"langKey": "en",
+			"imageUrl": null
+		}
+	}
+]

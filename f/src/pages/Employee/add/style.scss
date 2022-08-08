@@ -1,0 +1,20 @@
+.upload-avatar {
+	margin-bottom: 20px;
+	.ant-avatar {
+		margin-bottom: 22px;
+	}
+	.ant-upload-list {
+		display: none;
+	}
+}
+
+@media screen and (max-width: 992px) {
+	.upload-avatar {
+		.ant-avatar {
+			display: none;
+		}
+		.ant-upload-list {
+			display: block;
+		}
+	}
+}

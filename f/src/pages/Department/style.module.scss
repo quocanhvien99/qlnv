@@ -1,0 +1,39 @@
+.table_top {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 10px;
+	justify-content: space-between;
+	margin: 20px 0;
+}
+.Card {
+	padding: 20px;
+}
+.btn_submit {
+	border: none;
+	background: none;
+}
+
+.table_container {
+	overflow: auto;
+	.table {
+		min-width: 850px;
+	}
+}
+
+.goBack {
+	color: #1890ff;
+	cursor: pointer;
+	&:hover {
+		color: #40a9ff;
+	}
+}
+
+.success-btn {
+	background-color: #198754 !important;
+	&:hover {
+		background-color: #33a36f !important;
+	}
+	&:focus {
+		background-color: #198754 !important;
+	}
+}
